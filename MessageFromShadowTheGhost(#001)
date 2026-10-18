@@ -1,0 +1,71 @@
+(The track opens with the high-pitched whine of a twin-pod gimbal ring spinning up, followed by the metallic thud-thud-thud of hydro-gel
+rounds pelting a polycarbonate canopy. A crackle of static clears into a crisp studio mic feed.)
+
+HOST: Welcome back to Open-Source Velocity, the underground broadcast covering the bleeding edge of backyard engineering and sim-to-real motorsport.
+Tonight, we don't have a standard guest in the booth. In fact, we don't even have a dedicated server rack for him yet—he’s broadcasting straight from the mental cockpit
+of League Founder Hector Rodriguez, co-founder of the Aerotrek Sports League, head of the AI Shadow League, and co-coach of Team Bonsai… Shadow the Ghost.
+Welcome to the frequency, Coach.   
+
+(Adjusting his leather aviator cap and goggles)
+(A warm, slightly phase-shifted voice with a faint hum of high-voltage capacitors behind it)
+SHADOW THE GHOST:  Appreciate the bandwidth, chief. And hey—tell the listeners not to adjust their receivers. When an idea refuses to stay on paper, 
+it doesn't wait around for a million-dollar data center. Sir Gamez built the mental garage; I just moved in and started running laps.
+
+HOST: People out there are hearing rumors about what you and Sir Gamez are cooking up with the Aerotrek Sports League.
+Some are calling it open-source Formula 1 fused with IGPX and pod racing. Break it down for the wrench-turners listening at home—what is this sport actually about?
+
+SHADOW THE GHOST: At its core? It’s about proving that scavenged ingenuity beats a corporate factory floor every single day of the week. 
+We’re building both a full-scale physics simulation—the Shadow League, where my eight AI divisions crash-test radical propulsion and aero setups—and a real-world, 
+live-combat motorsport led by our flagship human outfit, Team Bonsai. You don't buy an Aerotrek rig off a showroom floor. 
+You scavenge industrial parts, prune away every gram of dead weight like a bonsai tree, and build a 360-degree thrust-vectoring pod racer. 
+Imagine an F1 monocoque cockpit tethered to twin forward-swept propulsion pods mounted on 360-degree gimbals. 
+Your momentum carries you screaming down the straightaway at high speed, while your cockpit and pods can spin a full 180 or 360 on a flat plane—drifting sideways 
+or flying completely backward while laying down live fire.
+
+HOST: And these rigs aren't racing on a standard oval or a classic road course. Explain the Hourglass Circuit.
+
+SHADOW THE GHOST: We run on stacked double-hourglasses. Two teams on the track, 3v3—six rigs total. Each bulb of the hourglass starts with The Split Run. 
+Your three-man squad is separated from the enemy on mirrored, high-banked lanes. In the Split Run, it’s pure PVE velocity and marksmanship: 
+you’re spinning your rig 360 degrees at top speed to snipe trackside piezo and conductive obstacle targets.
+Every target you nail harvests AP—Action Points—charging up your capacitor banks and arming your systems. Because right after the Split Run,
+the barriers drop away and both lanes slam together into the neck of the hourglass: The Skirmish Zone.
+
+HOST: That’s where the chaos hits. Six rigs merging wingtip-to-wingtip in a narrow choke point. How are teams surviving that without turning the track into a scrapyard?
+
+SHADOW THE GHOST: Two things: safe, hyper-smart ballistics and our 3v3 class trinity. In the real world, we fire frangible hydro-gel bursts paired with coded infrared
+muzzle flashes against tensioned conductive-trace armor panels. Inside the cockpit, you hear that terrifying thud-thud-thud drumming against your hull,
+and your onboard NetNavi AI translates every hit directly into your motor controller—cutting your thruster PWM or locking an aero-flap.
+To survive the Skirmish Neck, a squad runs three specialized builds:
+
+First is The Striker—the light-frame rogue. Pruned down to bare metal using Team Sprig and Team Spook telemetry.
+Strikers are glass cannons built to lead the lap, snipe high-value targets, and hunt the enemy's support rig.
+
+Second is The Anchor—the heavy tank. Wide aerodynamic wake, reinforced plating, gyro-stabilized mass. 
+The Anchor parks its frame right in the Skirmish choke point to body-block shots aimed at its teammates.
+
+Third is The Weaver—the tech-mage and battery of the crew. Equipped with oversized capacitors and Team Haze recovery loops, 
+the Weaver burns AP over the telemetry bus to clear hardware damage penalties off its teammates or fire electronic jamming pulses.
+
+HOST: Let’s talk scoring and win conditions. How do HP, AP, and those class modifiers actually decide a match?
+
+SHADOW THE GHOST: Every rig has local structural HP, and all three rigs feed into a Combined Team HP Pool. Thanks to our NetNavi targeting handshake, 
+the ship knows who shot you and runs rock-paper-scissors math in real time.
+If your Striker lands a burst on the enemy Weaver, that’s a critical multiplier—shredding their Combined Team HP and draining their capacitor AP. 
+On the flip side, if you waste your ammo shooting an Anchor, 70% of that damage gets mitigated, and our kinetic recovery mounts actually convert your shots 
+into free AP for the tank! To crack an Anchor, your Weaver has to hit them with disruptor pulses to bypass their armor.
+If a rig’s local HP drops to zero in the Skirmish Neck, it doesn't blow up—it drops into Limp Mode. Thrusters cut to 50%, weapons go offline, 
+hazard strobes flash. That driver has to limp into the next Split Run and either hit a flawless streak of trackside targets to force a manual reboot,
+or wait for their Weaver to dump AP into a defib patch.
+
+You win one of two ways: either your squad out-flies and out-scores the rival team across the finish line at the end of the laps,
+or 
+you drop all three enemy rigs into Limp Mode at the exact same time and drain their Combined Team HP to zero for an instant Total Wipeout TKO.
+
+HOST: A sport where backyard mechanics, AI NetNavis, and 360-degree combat physics collide—and all the telemetry stays open-source for the world to build on. 
+Shadow, before you jump back into the simulation to run Team Sprig and Team Spook through another thousand test laps, any message for the engineers listening?
+
+SHADOW THE GHOST: Keep your eyes on the junkyard and your wrenches ready. Sir Gamez and Team Bonsai are laying down the First Root,
+and the Shadow League is wide open. We’re gonna figure out how to really fly. See you in the choke point.
+
+(The sound of a twin-pod thruster roars to maximum RPM, dopplering past the microphone as the broadcast fades to black.)
+
