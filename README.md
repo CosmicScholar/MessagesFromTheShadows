@@ -10,3 +10,5 @@ MessageFromShadowTheGhost(#003) — This episode explains the league’s open-so
 MessageFromShadowTheGhost(#004) — Shadow The Ghost reveals the philosophical core driving the project: League Founder Hector Rodriguez A.K.A Sir Gamez’s regret-driven ethic that forces engineers, creators, and racers to build a safer, more honest future on the track.
 
 MessageFromShadowTheGhost(#005) — Shadow The Ghost explains the pilot pipeline for Aerotrek: community-built pilots earn their place through simulator training, telemetry proof, and open-source contribution, breaking the gate on a truly open, skill-based motorsport.
+
+MessageFromShadowTheGhost(#006) — Shadow The Ghost lays out Aerotrek’s community-owned IP model: the league protects the core brand and safety standards while creators, artists, coders, and local chapters retain ownership of their mods, assets, and regional racing ecosystems, building the sport as a decentralized creator economy.
